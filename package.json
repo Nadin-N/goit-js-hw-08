@@ -2,20 +2,20 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Nadin-N.github.io/goit-js-hw-08",
+  "homepage": "https://nadin-n.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nadin-N/goit-js-hw-08.git"
+    "url": "git+https://github.com/nadin-n/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Nadin Severin <nadinlikes2018@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nadin-N/goit-js-hw-08/issues"
+    "url": "https://github.com/nadin-n/goit-js-hw-08/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
